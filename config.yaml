@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: AdminRD@gmail.com
+      name: AdminRD
+      password: $2b$12$Wm5jvvQUykLsuTA0FiHz4e14JefwXwALtUeMXHv7FZno8/58K8txC
+preauthorized:
+  emails:
+  - me@gmail.com
